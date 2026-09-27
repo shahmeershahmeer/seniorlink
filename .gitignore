@@ -1,0 +1,10 @@
+node_modules
+.next
+.env*.local
+.env
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+# Not part of the app
+.Rhistory
